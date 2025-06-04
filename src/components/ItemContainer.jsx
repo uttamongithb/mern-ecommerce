@@ -28,11 +28,11 @@ const ItemContainer = ({ search = '', cart, setCart }) => {
   };
 
   return (
-    <div className="mt-10 flex flex-wrap gap-10 justify-center ml-20 mr-20">
+    <div className="mt-10 flex flex-wrap gap-10 justify-center ml-20 mr-20 ">
       {filteredItems.map((item) => (
         <div
           key={item.id}
-          className="mb-8 h-100 w-75 border-b-3 cursor-pointer"
+          className="mb-8 h-100 w-75 border-b-3 cursor-pointer shadow"
           onClick={() => navigate(`/product/${item.id}`)}
         >
           <div className="h-65 w-65 bg-grey-600 m-auto mt-4">
