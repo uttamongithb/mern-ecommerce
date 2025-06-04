@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "price": 15.99,
+    "image": "https://m.media-amazon.com/images/I/5181UFuvoBL._AC_SY355_.jpg",
+    "description": "Ergonomic wireless mouse with smooth tracking and long battery life."
+  },
+  {
+    "id": 2,
+    "name": "Bluetooth Headphones",
+    "price": 29.99,
+    "image": "https://m.media-amazon.com/images/I/71F2ccIPPLL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "description": "High-quality Bluetooth headphones with noise isolation and clear stereo sound."
+  },
+  {
+    "id": 3,
+    "name": "Gaming Keyboard",
+    "price": 45.00,
+    "image": "https://m.media-amazon.com/images/I/61RM1rMoceL._AC_SY355_.jpg",
+    "description": "RGB backlit gaming keyboard with mechanical keys for responsive gameplay."
+  },
+  {
+    "id": 4,
+    "name": "USB-C Charger",
+    "price": 12.50,
+    "image": "https://m.media-amazon.com/images/I/61qTQCC92kL._AC_SX466_.jpg",
+    "description": "Fast-charging USB-C charger compatible with phones, tablets, and laptops."
+  },
+  {
+    "id": 5,
+    "name": "Laptop Stand",
+    "price": 23.49,
+    "image": "https://m.media-amazon.com/images/I/51KyaTB1EKL._AC_SY355_.jpg",
+    "description": "Adjustable aluminum laptop stand for better posture and cooling."
+  },
+  {
+    "id": 6,
+    "name": "Smart Watch",
+    "price": 89.99,
+    "image": "https://m.media-amazon.com/images/I/71xbOQHy6mL._AC_SY355_.jpg",
+    "description": "Feature-rich smartwatch with fitness tracking and message notifications."
+  },
+  {
+    "id": 7,
+    "name": "Webcam HD",
+    "price": 35.75,
+    "image": "https://m.media-amazon.com/images/I/61S6pwNvfdL._AC_SY355_.jpg",
+    "description": "HD webcam with built-in microphone, ideal for video calls and streaming."
+  },
+  {
+    "id": 8,
+    "name": "Desk Lamp",
+    "price": 19.95,
+    "image": "https://m.media-amazon.com/images/I/61xxhaeUKIL._AC_SX466_.jpg",
+    "description": "LED desk lamp with adjustable brightness and touch control features."
+  },
+  {
+    "id": 9,
+    "name": "Portable SSD 1TB",
+    "price": 99.99,
+    "image": "https://m.media-amazon.com/images/I/91YfRIy7kYL.__AC_SY300_SX300_QL70_FMwebp_.jpg",
+    "description": "High-speed portable 1TB SSD for quick file transfers and storage."
+  },
+  {
+    "id": 10,
+    "name": "HDMI Cable",
+    "price": 7.89,
+    "image": "https://m.media-amazon.com/images/I/511ckci5b6L._SX342_.jpg",
+    "description": "Durable HDMI cable for clear video and audio transmission."
+  },
+  {
+    "id": 11,
+    "name": "Mechanical Pencil",
+    "price": 2.99,
+    "image": "https://m.media-amazon.com/images/I/81x4XvmP+TL._AC_SY355_.jpg",
+    "description": "Comfortable grip mechanical pencil for smooth and precise writing."
+  },
+  {
+    "id": 12,
+    "name": "Notebook",
+    "price": 4.99,
+    "image": "https://m.media-amazon.com/images/I/61nJOjSLjbL._AC_SY355_.jpg",
+    "description": "Lined paper notebook perfect for school, journaling, or daily notes."
+  },
+  {
+    "id": 13,
+    "name": "Coffee Mug",
+    "price": 9.99,
+    "image": "https://m.media-amazon.com/images/I/61UxLCMgK0L._AC_SY450_.jpg",
+    "description": "Ceramic coffee mug with a comfortable handle and modern design."
+  },
+  {
+    "id": 14,
+    "name": "Phone Tripod",
+    "price": 17.49,
+    "image": "https://m.media-amazon.com/images/I/71cedH1Bh8L._AC_SY355_.jpg",
+    "description": "Flexible phone tripod for stable shooting and easy portability."
+  },
+  {
+    "id": 15,
+    "name": "LED Strip Light",
+    "price": 13.99,
+    "image": "https://m.media-amazon.com/images/I/717ydjHDMqL._AC_SX466_.jpg",
+    "description": "Color-changing LED strip light for room decoration or mood lighting."
+  },
+  {
+    "id": 16,
+    "name": "Smartphone Holder",
+    "price": 8.95,
+    "image": "https://m.media-amazon.com/images/I/81sfgvLafuL._AC_SX425_.jpg",
+    "description": "Adjustable smartphone holder for desks, cars, or kitchen use."
+  },
+  {
+    "id": 17,
+    "name": "Fitness Band",
+    "price": 39.00,
+    "image": "https://m.media-amazon.com/images/I/61-PhP53C2L._AC_SX425_.jpg",
+    "description": "Water-resistant fitness band with heart rate and step tracking."
+  },
+  {
+    "id": 18,
+    "name": "Tablet Stand",
+    "price": 14.25,
+    "image": "https://m.media-amazon.com/images/I/718d7IFXzBL._AC_SX425_.jpg",
+    "description": "Foldable tablet stand for hands-free viewing and easy storage."
+  },
+  {
+    "id": 19,
+    "name": "Wireless Charger",
+    "price": 18.00,
+    "image": "https://m.media-amazon.com/images/I/713Zmnd3k7L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "description": "Fast wireless charger compatible with most Qi-enabled devices."
+  },
+  {
+    "id": 20,
+    "name": "Bluetooth Speaker",
+    "price": 24.95,
+    "image": "https://m.media-amazon.com/images/I/81l7mB5LhsL._AC_SY355_.jpg",
+    "description": "Portable Bluetooth speaker with deep bass and long battery life."
+  },
+  {
+    "id": 21,
+    "name": "Desk Organizer",
+    "price": 11.50,
+    "image": "https://m.media-amazon.com/images/I/91AUT7AZwJL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "description": "Multi-compartment desk organizer to keep your workspace clutter-free."
+  },
+  {
+    "id": 22,
+    "name": "Stylus Pen",
+    "price": 6.75,
+    "image": "https://m.media-amazon.com/images/I/414C25OyjML._AC_SY355_.jpg",
+    "description": "Precise stylus pen for tablets and touchscreen devices."
+  },
+  {
+    "id": 23,
+    "name": "Phone Case",
+    "price": 10.00,
+    "image": "https://m.media-amazon.com/images/I/71Dfmp6z2SL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "description": "Durable phone case offering shock protection and sleek design."
+  },
+  {
+    "id": 24,
+    "name": "Wall Clock",
+    "price": 16.30,
+    "image": "https://m.media-amazon.com/images/I/61QbTQ6dQXL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "description": "Minimalist wall clock with silent movement and clear display."
+  },
+  {
+    "id": 25,
+    "name": "Laptop Bag",
+    "price": 34.99,
+    "image": "https://m.media-amazon.com/images/I/810gZYpPz9L._AC_SY355_.jpg",
+    "description": "Spacious laptop bag with padded compartment and multiple pockets."
+  },
+  {
+    "id": 26,
+    "name": "Backpack",
+    "price": 49.99,
+    "image": "https://m.media-amazon.com/images/I/61YKKRDbm+L._AC_SY355_.jpg",
+    "description": "Durable backpack suitable for travel, school, and daily use."
+  },
+  {
+    "id": 27,
+    "name": "Wireless Earbuds",
+    "price": 59.99,
+    "image": "https://m.media-amazon.com/images/I/71l2qgYAjoL._AC_UY218_.jpg",
+    "description": "Compact wireless earbuds with excellent sound and long battery."
+  },
+  {
+    "id": 28,
+    "name": "Monitor Stand",
+    "price": 27.50,
+    "image": "https://m.media-amazon.com/images/I/61f37oJP85L._AC_UY218_.jpg",
+    "description": "Elevated monitor stand for ergonomic viewing and desk space."
+  },
+  {
+    "id": 29,
+    "name": "Digital Alarm Clock",
+    "price": 14.75,
+    "image": "https://m.media-amazon.com/images/I/51wXuyALdbL._AC_SX450_.jpg",
+    "description": "Modern digital alarm clock with LED display and snooze function."
+  },
+  {
+    "id": 30,
+    "name": "USB Hub",
+    "price": 9.49,
+    "image": "https://m.media-amazon.com/images/I/71JsRgf86NL._AC_UY218_.jpg",
+    "description": "4-port USB hub for expanding connectivity on laptops and PCs."
+  }
+]
