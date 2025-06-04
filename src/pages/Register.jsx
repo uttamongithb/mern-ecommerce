@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 
-const Register = () => {
+const Register = ({ setUser }) => {
   const navigate = useNavigate();
   const [form, setForm] = useState({
     name: '',
@@ -24,6 +24,7 @@ const Register = () => {
     }
     // Save user (for demo, just localStorage)
     localStorage.setItem('user', form.name);
+    if (setUser) setUser(form.name); // Update user state immediately
     // Redirect to home
     navigate('/home');
   };
