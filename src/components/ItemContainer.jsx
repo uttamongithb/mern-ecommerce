@@ -28,33 +28,33 @@ const ItemContainer = ({ search = '', cart, setCart }) => {
   };
 
   return (
-    <div className="mt-10 flex flex-wrap gap-6 justify-center px-2 sm:px-10">
+    <div className="mt-10 flex flex-wrap gap-10 justify-center ml-20 mr-20">
       {filteredItems.map((item) => (
         <div
           key={item.id}
-          className="mb-8 w-full max-w-xs sm:w-72 border-b-2 cursor-pointer bg-white rounded-lg shadow hover:shadow-lg transition"
+          className="mb-8 h-100 w-75 border-b-3 cursor-pointer"
           onClick={() => navigate(`/product/${item.id}`)}
         >
-          <div className="h-56 w-full flex items-center justify-center bg-gray-100 rounded-t-lg">
+          <div className="h-65 w-65 bg-grey-600 m-auto mt-4">
             <img
               src={item.image}
               alt={item.name}
-              className="max-h-48 max-w-full object-contain"
+              className="h-65 object-contain"
             />
           </div>
-          <div className="flex flex-col px-4 py-2 font-bold">
+          <div className="flex flex-col ml-5 mt-3 font-bold">
             <span>{item.name}</span>
             <span>₹{item.price}</span>
           </div>
-          <div className="flex justify-between items-center px-4 pb-3">
+          <div className="flex justify-between items-center px-5 mt-1.5">
             <button
-              className="bg-emerald-600 text-white font-bold px-2 py-1 rounded hover:bg-emerald-700 transition w-1/2 mr-2"
+              className="bg-emerald-600 text-white font-bold px-2 py-1 hover:bg-emerald-700 transition"
               onClick={e => { e.stopPropagation(); handleAddToCart(item); }}
             >
               Add To Cart
             </button>
             <button
-              className="bg-emerald-600 text-white font-bold px-2 py-1 rounded hover:bg-emerald-700 transition w-1/2"
+              className="bg-emerald-600 text-white font-bold px-2 py-1 hover:bg-emerald-700 transition"
               onClick={e => { e.stopPropagation(); handleBuyNow(item); }}
             >
               Buy Now
