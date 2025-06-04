@@ -30,7 +30,7 @@ const Navbar = ({ search, setSearch, user, cart }) => {
 
   return (
     <nav className="bg-emerald-500 w-full">
-      <div className="max-w-7xl mx-auto px-4 flex items-center justify-between h-16">
+      <div className=" w-full mx-auto px-4 flex items-center justify-between h-16">
         <Link className="flex items-center" to="/home">
           <i className="fa-solid fa-house mr-1 text-xl text-white"></i>
           <h1 className="text-white text-2xl font-bold">SHOPNOW</h1>
